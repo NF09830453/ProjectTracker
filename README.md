@@ -1,8 +1,11 @@
 # ProjectTracker
-Requirements Management System
+Requirements Management System - 
 A streamlit-based application for managing software requirements and test cases with AI assistance.
+
 Features
+
 Requirements Management
+
     Create and store user/system requirements
     Support for different requirement types (UF-, UP-, UO-, UE-, SF-, SP-, SO-, SE-)
     Automatic requirement card generation
@@ -10,6 +13,7 @@ Requirements Management
 
     
 Test Case Management
+
     Create and store test cases
     Link test cases to requirements
     Track test suite organization
@@ -17,6 +21,7 @@ Test Case Management
 
     
 UML Diagram Support
+
     Convert MermaidJS code to UML diagrams
     Interactive diagram preview
     Diagram URL generation
